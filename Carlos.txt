@@ -2,3 +2,4 @@ Carlos.txt
 editamos
 volvemos a editar
 editamos otra vez
+editamos desde la consola
